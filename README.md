@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/harlan-zw/nuxt-seo/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=harlan-zw/nuxt-seo" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
