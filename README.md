@@ -1,22 +1,30 @@
-### Hi there 👋
+<div align="center">Hello! My Name is Yoo-minho 👋</div>
 
-<!--
-**yoo-minho/yoo-minho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">SideProject</h2>
+<div align="center">
+  <div>1. https://teamlog.cc - Create multiple blogs as a team blog! ✍</div>
+  <div>2. https://cutin.cc - Easily edit and record basketball videos! 🏀</div>
+</div>
 
-Here are some ideas to get you started:
+<h2 align="center">Contributors</h2>
+<div align="center">
+  <div>
+    <img src="https://img.shields.io/badge/nuxt--seo-black?style=flat-square&logo=nuxtdotjs&logoColor=00DC82"/>
+  </div>
+  <a href="https://github.com/harlan-zw/nuxt-seo/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=harlan-zw/nuxt-seo" width="240px"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">TechStack</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/postgresql-black?style=flat-square&logo=PostgreSQL&logoColor=4169E1" />&nbsp
+  <img src="https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript&logoColor=F7DF1E" />&nbsp
+  <img src="https://img.shields.io/badge/nuxt.js-black?style=flat-square&logo=nuxt.js&logoColor=00DC82" />&nbsp
+  <img src="https://img.shields.io/badge/vue.js-black?style=flat-square&logo=vue.js&logoColor=4FC08D" />&nbsp
+  <img src="https://img.shields.io/badge/nestjs-black?style=flat-square&logo=nestjs&logoColor=E0234E" />&nbsp
+  <img src="https://img.shields.io/badge/prisma-black?style=flat-square&logo=prisma&logoColor=2D3748" />&nbsp
+  <img src="https://img.shields.io/badge/git-black?style=flat-square&logo=git&logoColor=F05032" />&nbsp
+</div>
 
-<a href="https://github.com/harlan-zw/nuxt-seo/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=harlan-zw/nuxt-seo" />
-</a>
-
-Made with [contrib.rocks](https://contrib.rocks).
+<!-- Made with [contrib.rocks](https://contrib.rocks).-->
