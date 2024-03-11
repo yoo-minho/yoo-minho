@@ -6,7 +6,7 @@
   <div>2. https://cutin.cc - Easily edit and record basketball videos! 🏀</div>
 </div>
 
-<h2 align="center">Contributors</h2>
+<h2 align="center">Contribution</h2>
 <div align="center">
   <div>
     <img src="https://img.shields.io/badge/nuxt--seo-black?style=flat-square&logo=nuxtdotjs&logoColor=00DC82"/>
