@@ -1,11 +1,16 @@
 <div align="center">Hello! My Name is Yoo-minho 👋</div>
 
+<h3 align="center">🚀</h3>
 <h2 align="center">SideProject</h2>
 <div align="center">
-  <div>1. https://teamlog.cc - Create multiple blogs as a team blog! ✍</div>
-  <div>2. https://cutin.cc - Easily edit and record basketball videos! 🏀</div>
+  <h3>1. https://teamlog.cc</h3>
+  <div>Create multiple blogs as a team blog! ✍</div>
+  
+  <h3>2. https://cutin.cc</h3>
+  <div>Easily edit and record basketball videos! 🏀</div>
 </div>
 
+<h3 align="center">🚀</h3>
 <h2 align="center">Contribution</h2>
 <div align="center">
   <div>
@@ -16,6 +21,7 @@
   </a>
 </div>
 
+<h3 align="center">🚀</h3>
 <h2 align="center">TechStack</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/postgresql-black?style=flat-square&logo=PostgreSQL&logoColor=4169E1" />&nbsp
